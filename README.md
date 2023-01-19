@@ -14,7 +14,7 @@ Develop a driver (virtual device) that monitors the startup of some process X. W
   
 * Create on your VirtualBox **Host** and **Target** machines
   
-* Install on **Host** machine [**Visual Studio**](ttps://download.visualstudio.microsoft.com/download/pr/1206a800-42a6-4dd5-8b7d-27ccca92e823/8958c61ec7143f12d457cc04bf40fdd97f837853da3b66f94276c88374d007fb/vs_Professional.exe)
+* Install on **Host** machine [**Visual Studio**](https://download.visualstudio.microsoft.com/download/pr/1206a800-42a6-4dd5-8b7d-27ccca92e823/8958c61ec7143f12d457cc04bf40fdd97f837853da3b66f94276c88374d007fb/vs_Professional.exe)
 
 * Install on both **Host** and **Target** VM [**WDK**]( https://go.microsoft.com/fwlink/?linkid=2085767
 )
